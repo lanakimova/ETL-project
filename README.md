@@ -1,1 +1,2 @@
-# ETL-project
+### ETL-project
+  Being an ESL Student (English as Second Language) I think it is important to learn meaning of new words before you read article or book. It is really boring to read anythink if you need to translate every 3rd word in a sentence. There are a lot of apps around that show word translation by clicking on the word, but they show only one-two meaning and not always the right one. Like in any other languages, one english word can have multiple meaning depending of context. In this project I take article names and their content and provide the list of unique words that ESL student can learn before read news.
